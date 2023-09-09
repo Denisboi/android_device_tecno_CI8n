@@ -1,6 +1,6 @@
 # ALPHA TWRP for Tecno Camon 19 Pro
 
-### Blocking checks
+### Checks
 
 - [X] Correct screen/recovery size
 - [ ] Working Touch, screen(so it works, but it’s impossible to use)
@@ -8,9 +8,6 @@
 - [X] Restore from internal/microSD
 - [ ] reboot to system(not tested)
 - [X] ADB
-
-### Medium checks
-
 - [ ] update.zip sideload(not tested)
 - [ ] Screen goes off and on
 - [X] F2FS/EXT4 Support, exFAT/NTFS where supported
@@ -18,9 +15,6 @@
 - [ ] backup/restore to/from external (USB-OTG) storage (not tested)
 - [ ] decrypt /data(not tested)
 - [ ] Correct date
-
-### Minor checks
-
 - [X] MTP export
 - [X] reboot to bootloader
 - [X] reboot to recovery
