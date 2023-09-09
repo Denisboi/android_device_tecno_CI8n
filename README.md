@@ -6,10 +6,10 @@
 - [ ] Working Touch, screen(so it works, but it’s impossible to use)
 - [X] Backup to internal/microSD
 - [X] Restore from internal/microSD
-- [ ] reboot to system(not tested)
+- [X] reboot to system
 - [X] ADB
 - [ ] update.zip sideload(not tested)
-- [ ] Screen goes off and on
+- [X] Screen goes off and on
 - [X] F2FS/EXT4 Support, exFAT/NTFS where supported
 - [X] all important partitions listed in mount/backup lists
 - [ ] backup/restore to/from external (USB-OTG) storage (not tested)
