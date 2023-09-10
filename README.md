@@ -14,7 +14,7 @@
 - [X] all important partitions listed in mount/backup lists
 - [ ] backup/restore to/from external (USB-OTG) storage (not tested)
 - [ ] decrypt /data(not tested)
-- [ ] Correct date
+- [X] Correct date
 - [X] MTP export
 - [X] reboot to bootloader
 - [X] reboot to recovery
@@ -24,7 +24,7 @@
 - [X] input devices via USB (USB-OTG) - keyboard, mouse and disks
 - [ ] USB mass storage export (not tested)
 - [X] set brightness
-- [ ] vibrate
+- [X] vibrate
 - [X] screenshot
 - [X] partition SD card
 - [X] 120 HZ
