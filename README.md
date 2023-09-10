@@ -6,7 +6,7 @@
 - [X] Working Touch, screen
 - [X] Backup to internal/microSD
 - [X] Restore from internal/microSD
-- [X] reboot to system
+- [ ] reboot to system
 - [X] ADB
 - [ ] update.zip sideload(not tested)
 - [X] Screen goes off and on
