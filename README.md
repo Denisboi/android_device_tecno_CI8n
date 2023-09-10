@@ -3,7 +3,7 @@
 ### Checks
 
 - [X] Correct screen/recovery size
-- [ ] Working Touch, screen(so it works, but it’s impossible to use)
+- [X] Working Touch, screen
 - [X] Backup to internal/microSD
 - [X] Restore from internal/microSD
 - [X] reboot to system
