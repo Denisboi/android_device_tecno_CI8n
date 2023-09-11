@@ -6,9 +6,7 @@
 - [X] Work Touch, screen
 - [X] Backup to internal/microSD
 - [X] Restore from internal/microSD
-- [ ] reboot to system
 - [X] ADB
-- [ ] update.zip sideload(not tested)
 - [X] Screen goes off and on
 - [X] F2FS/EXT4 Support, exFAT/NTFS where supported
 - [X] all important partitions listed in mount/backup lists
