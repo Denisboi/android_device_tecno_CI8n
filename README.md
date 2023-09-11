@@ -28,6 +28,7 @@
 - [X] screenshot
 - [X] partition SD card
 - [X] 120 HZ
+- [X] fastbootD 
 
 ## Building
 
