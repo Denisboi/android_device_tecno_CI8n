@@ -1,4 +1,3 @@
-#fstab file by lopestom for Tecno Camon 19 Pro - CI8n-H816BC-S-GL-220513V853
 #/system		        ext4	/dev/block/mapper/system              flags=backup=1;wipeingui;slotselect;logical;display="System_root"
 #/vendor             ext4    /dev/block/mapper/vendor             flags=backup=1;wipeingui;logical;display="Vendor_a";slotselect
 #/product            ext4    /dev/block/mapper/product             flags=backup=1;wipeingui;logical;display="Product_a";slotselect
