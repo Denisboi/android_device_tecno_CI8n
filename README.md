@@ -3,7 +3,7 @@
 ### Checks
 
 - [X] Correct screen/recovery size
-- [X] Working Touch, screen
+- [X] Work Touch, screen
 - [X] Backup to internal/microSD
 - [X] Restore from internal/microSD
 - [ ] reboot to system
@@ -28,7 +28,7 @@
 - [X] screenshot
 - [X] partition SD card
 - [X] 120 HZ
-- [X] fastbootD 
+- [X] fastbootD
 
 ## Building
 
