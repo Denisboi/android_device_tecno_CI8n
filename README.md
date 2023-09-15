@@ -1,4 +1,4 @@
-# ALPHA TWRP for Tecno Camon 19 Pro
+# TWRP for Tecno Camon 19 Pro
 
 ### Checks
 
