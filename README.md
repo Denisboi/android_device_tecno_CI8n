@@ -1,7 +1,7 @@
 # TWRP for Tecno Camon 19 Pro
 
 ### Checks
-
+- [ ] Reboot to system
 - [X] Correct screen/recovery size
 - [X] Work Touch, screen
 - [X] Backup to internal/microSD
