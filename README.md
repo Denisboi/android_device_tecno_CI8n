@@ -1,4 +1,5 @@
 # TWRP for Tecno Camon 19 Pro
+# Version: V1056 Ru
 
 ### Checks
 - [ ] Reboot to system
